@@ -1,0 +1,13 @@
+D:\viduC#\chuong2_bt4\obj\Debug\netcoreapp3.1\chuong2_bt4.csprojAssemblyReference.cache
+D:\viduC#\chuong2_bt4\obj\Debug\netcoreapp3.1\chuong2_bt4.csproj.CoreCompileInputs.cache
+D:\viduC#\chuong2_bt4\obj\Debug\netcoreapp3.1\chuong2_bt4.AssemblyInfoInputs.cache
+D:\viduC#\chuong2_bt4\obj\Debug\netcoreapp3.1\chuong2_bt4.AssemblyInfo.cs
+D:\viduC#\chuong2_bt4\bin\Debug\netcoreapp3.1\chuong2_bt4.exe
+D:\viduC#\chuong2_bt4\bin\Debug\netcoreapp3.1\chuong2_bt4.deps.json
+D:\viduC#\chuong2_bt4\bin\Debug\netcoreapp3.1\chuong2_bt4.runtimeconfig.json
+D:\viduC#\chuong2_bt4\bin\Debug\netcoreapp3.1\chuong2_bt4.runtimeconfig.dev.json
+D:\viduC#\chuong2_bt4\bin\Debug\netcoreapp3.1\chuong2_bt4.dll
+D:\viduC#\chuong2_bt4\bin\Debug\netcoreapp3.1\chuong2_bt4.pdb
+D:\viduC#\chuong2_bt4\obj\Debug\netcoreapp3.1\chuong2_bt4.dll
+D:\viduC#\chuong2_bt4\obj\Debug\netcoreapp3.1\chuong2_bt4.pdb
+D:\viduC#\chuong2_bt4\obj\Debug\netcoreapp3.1\chuong2_bt4.genruntimeconfig.cache
